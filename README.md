@@ -32,11 +32,7 @@ Aplicación en Java para gestión de inventario y usuarios.
 
 ## 📫 Contacto
 - 📧 Email: giovanni.a.garrido14@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/giovanni-garrido-/
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GiovanniGarridoR&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GiovanniGarridoR&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniGarridoR&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GiovanniGarridoR&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
