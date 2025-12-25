@@ -6,7 +6,8 @@ Desarrollador Junior y Soporte TI, egresando de Ingeniería en Informática (Duo
 Tengo experiencia práctica en desarrollo web y soporte técnico, participando en la implementación de un sistema web interno utilizado en producción para la gestión de envíos y procesos logísticos.<br>
 
 ## 🌐 Redes:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vlexis.14/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giovanni-garrido-/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vlexis.14/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giovanni-garrido-/) 
 
 ## 🛠️ Tecnologías y herramientas
 - Desarrollo Web: HTML, CSS, Bootstrap, JavaScript
