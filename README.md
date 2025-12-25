@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-<br> #👋 Hola, soy Giovanni Garrido
+<br> 👋 Hola, soy Giovanni Garrido
 
 Desarrollador Junior y Soporte TI, egresando de Ingeniería en Informática (Duoc UC).
 
