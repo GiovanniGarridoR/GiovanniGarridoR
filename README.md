@@ -20,7 +20,7 @@ Tengo experiencia práctica en desarrollo web y soporte técnico, participando e
 ## 📌 Proyectos destacados
 🔹 **Sistema de Gestión de Envíos**  
 Aplicación web para la gestión y seguimiento de envíos, con dashboard y reportes.  
-👉 *(Ver repositorio abajo)*
+
 
 🔹 **VuelosDuoc – Sistema de Reservas**  
 Lógica en Python para gestión de vuelos y reservas.
