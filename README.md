@@ -30,7 +30,7 @@ Aplicación en Java para gestión de inventario y usuarios.
 ---
 ## 🎖️Certificaciones y cursos
 * Crash Course on Python - Agosto 2026 — ([Ver certificado](https://www.coursera.org/account/accomplishments/verify/5OOT65GTGDIA))
-* Foundations of Cybersecurity - Agosto 2026 — ([Ver certificado](https://www.coursera.org/account/accomplishments/verify/1DODA7PP1F10))
+* Foundations of Cybersecurity - Agosto 2026 — ([Ver certificado](https://www.coursera.org/account/accomplishments/verify/1DODA7PP1F1O))
 ---
 
 ## 📫 Contacto
