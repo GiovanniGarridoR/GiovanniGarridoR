@@ -1,7 +1,6 @@
 # 💫 Sobre mi:
-<br> 👋 Hola, soy Giovanni Garrido
-
-Desarrollador Junior y Soporte TI, egresando de Ingeniería en Informática (Duoc UC). Con experiencia en soporte técnico y desarrollo web, actualmente especializándome y certificándome en Ciberseguridad para integrar buenas prácticas de protección de datos y análisis de vulnerabilidades
+<br> 
+Desarrollador Junior y Soporte TI, egresado de Ingeniería en Informática (Duoc UC). Con experiencia en soporte técnico y desarrollo web, actualmente especializándome y certificándome en Ciberseguridad para integrar buenas prácticas de protección de datos y análisis de vulnerabilidades.
 .<br>
 
 ## 🌐 Redes:
@@ -34,7 +33,8 @@ Aplicación en Java para gestión de inventario y usuarios.
 ---
 
 ## 📫 Contacto
-- 📧 Email: giovanni.a.garrido14@gmail.com  
+- 📧 Email: giovanni.a.garrido14@gmail.com
+- 📱 Celular: +56931308776
 
 
 ## 🏆 GitHub Trophies
