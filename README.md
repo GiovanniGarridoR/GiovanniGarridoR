@@ -1,9 +1,8 @@
 # 💫 Sobre mi:
 <br> 👋 Hola, soy Giovanni Garrido
 
-Desarrollador Junior y Soporte TI, egresando de Ingeniería en Informática (Duoc UC).
-
-Tengo experiencia práctica en desarrollo web y soporte técnico, participando en la implementación de un sistema web interno utilizado en producción para la gestión de envíos y procesos logísticos.<br>
+Desarrollador Junior y Soporte TI, egresando de Ingeniería en Informática (Duoc UC). Con experiencia en soporte técnico y desarrollo web, actualmente especializándome y certificándome en Ciberseguridad para integrar buenas prácticas de protección de datos y análisis de vulnerabilidades
+.<br>
 
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vlexis.14/) 
@@ -16,11 +15,11 @@ Tengo experiencia práctica en desarrollo web y soporte técnico, participando e
 - Programación: Python, Java (POO)
 - Control de versiones: Git, GitHub
 - Soporte TI: Active Directory, soporte a usuarios
+- Ciberseguridad: Fundamentos de redes (TCP/IP, DNS), Linux, análisis de logs y control de accesos (IAM).
 
 ## 📌 Proyectos destacados
 🔹 **Sistema de Gestión de Envíos**  
 Aplicación web para la gestión y seguimiento de envíos, con dashboard y reportes.  
-
 
 🔹 **VuelosDuoc – Sistema de Reservas**  
 Lógica en Python para gestión de vuelos y reservas.
@@ -28,6 +27,10 @@ Lógica en Python para gestión de vuelos y reservas.
 🔹 **AutomotoraApp**  
 Aplicación en Java para gestión de inventario y usuarios.
 
+---
+## 🎖️Certificaciones y cursos
+🔹 Crash Course on Python - Agosto 2026 (https://www.coursera.org/account/accomplishments/verify/5OOT65GTGDIA)
+🔹Foundations of Cybersecurity - Agosto 2026 (https://www.coursera.org/account/accomplishments/verify/1DODA7PP1F1O)
 ---
 
 ## 📫 Contacto
